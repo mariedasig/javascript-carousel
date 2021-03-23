@@ -1,3 +1,3 @@
 # javascript-carousel
 
-Made with HTML, CSS, and Javascript
+Carousel built with HTML, CSS, and Vanilla JS
